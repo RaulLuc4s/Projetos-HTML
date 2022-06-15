@@ -1,1 +1,4 @@
-raul
+comando que prepara os arquivos para o commit: git add . ou git add *
+comando que commita os arquivos: git commit -m "String desejada"
+comando que envia os arquivos para nuvem, no github: git push origin main/master
+
